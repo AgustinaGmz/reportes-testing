@@ -1,6 +1,9 @@
 # reportes-testing
+
 Proyecto Academy Santex (Testing Automation con Cypress)
+
 Reporte de Bug: Formulario de Contacto
+
 Ticket: # [2]
 Título / Pantalla: Validación de Envío de Formulario de Contacto
 
