@@ -33,7 +33,7 @@ Resultado Obtenido
 Mensaje de éxito: "Thanks for getting in touch Agustina Gimenez! We'll get back to you about bolcheagustina@gmail.com as soon as possible."
 
 Evidencia
-Adjuntar capturas de pantalla o cualquier otra evidencia relevante que muestre el mensaje de éxito después del envío del formulario. #
+Adjuntar capturas de pantalla o cualquier otra evidencia relevante que muestre el mensaje de éxito después del envío del formulario.
 
 ![Evidencia](https://github.com/user-attachments/assets/6a949bbc-7c26-4130-9b92-6bba8b39730f)
  
